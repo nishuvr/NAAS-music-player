@@ -1,1 +1,4 @@
 # NAAS-music-player
+* NAAS is a music streaming application which intends to mimic popular applications such as Wynk, spotify. The application contains two components: User side component and a Server side component. User side component comprises a graphical interface which is convenient for the users integrated to the backend. And the server side takes care of user information and preferences using which it also makes recommendations to the users from its database which helps them discover similar music of their interest. Every logged in user is displayed with a set of recommended songs which might interest them. User’s profile data and their listening experience data is combinedly used to make suggestions to the user .The user can either choose to play a song from the 
+
+* The Implementation is done using SPOTIFY API's
